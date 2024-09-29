@@ -1,0 +1,3 @@
+Alice will pays 40 to Bob
+Alice will pays 20 to Charlie
+2
